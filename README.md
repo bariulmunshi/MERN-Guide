@@ -1,7 +1,7 @@
-- [Git vs Github](#git-vs-github)
+- [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
-# Git vs GitHub
+# Git and GitHub
 ## Difference between Git vs GitHub
 | Option |  Git      | github    |
 | -----------   | ------------- | -------- |
