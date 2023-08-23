@@ -9,9 +9,15 @@
 | 2   | Test2         | Toronto  |
 ## Git and GitHub Basic QA
 - What is the main purpose of git branching? 
-Ans: Separate a small feature from main code.
+ ```sh
+  Separate a small feature from main code.
+ ```
 - Which Command is used to check the list of branches?
-Ans: git branch
+ ```sh
+  > git branch
+ ```
 - Which command will you use to create a new branch named new-branch ?
-Answer: git checkout -b new-branch
+ ```sh
+  >git checkout -b new-branch
+ ```
 
