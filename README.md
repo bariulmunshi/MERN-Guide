@@ -1,6 +1,19 @@
 - [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
+
+# gap properties
+```sh
+ .container {
+  display: flex;
+  ...
+  gap: 10px;
+  gap: 10px 20px; /* row-gap column gap */
+  row-gap: 10px;
+  column-gap: 20px;
+}
+```
+
 # Git and GitHub
 ## Difference between Git vs GitHub
 | Option |  Git      | github    |
