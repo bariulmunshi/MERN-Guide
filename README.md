@@ -2,11 +2,21 @@
 - [Basic understanding MERN](#basic-understanding-mern)
 - [project]()
    -  [project-1]
+- [Seven way to responsive layout](#seven-way-to-responsive-layout)
 - [custom CSS{var(--root name can be any css style)}](#custom-css)
 - [gap properies](#gap-properties)
 - [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
+
+# Seven way to responsive layout
+1. viewport meta tag(by default we get)
+2. CSS relative measuring unit(%,vw)
+3. make image fluid (use % as width)
+4. Body max width and margin auto
+5. Two column using flex layout and media query
+6. Multi-column using grid and media query
+7. Responsive Menu(bootstrap responsive)
 
 # custom CSS
 ```sh
@@ -70,3 +80,15 @@ css style :box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 - CSS Overflow (overflow-x: hidden;), ellipsis(tooltip:title,white-space: nowrap; & overflow: hidden;)
 - visibility(display: none; visibility: hidden; )
 - width: calc(100% - 200px); height: calc(100% - 200px);
+- specifityP{important(!important>inlineCSS>id>class>tag)}
+here periodity rule is specifity we use !important override css bootrap style but nomally we use inlineCSS
+override bootrap CSS
+- pseudo example
+```sh
+ p::first-letter {
+                color: #ff0000;
+                font-size: xx-large;
+            }
+```
+- 1.Horizontal change:Justify-content{} 2.Vertical change: align-item{}
+- align-items: stretch; flex-grow: 1;
