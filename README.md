@@ -2,6 +2,7 @@
 - [Basic understanding MERN](#basic-understanding-mern)
 - [project]()
    -  [project-1]
+- [flex and grid CSS media queries example](#flex-and-grid-css-media-queries-example)
 - [Seven way to responsive layout](#seven-way-to-responsive-layout)
 - [custom CSS{var(--root name can be any css style)}](#custom-css)
 - [gap properies](#gap-properties)
@@ -9,6 +10,32 @@
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
 
+# flex and grid CSS media queries example
+1. Flex example for mobile devices
+```sh
+@media screen and (max-width: 767px) {
+            .container{
+                /* flex-direction: column; */
+                flex-direction: column-reverse;
+            }
+            .container .half-container {
+                width: 100%;
+            }
+        }
+```
+2. Grid example for tablet responsive layout
+```sh
+@media screen and (min-width: 768px) and (max-width: 992px) {
+            .container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media screen and (max-width: 576px) {
+            .container {
+                grid-template-columns: repeat(1, 1fr);
+            }
+        }
+```
 # Seven way to responsive layout
 1. viewport meta tag(by default we get)
 2. CSS relative measuring unit(%,vw)
