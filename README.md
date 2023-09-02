@@ -1,5 +1,7 @@
 #  Table of content
 - [Basic understanding MERN](#basic-understanding-mern)
+- [Website making idea](#website-making-idea)
+- [Websites and resources to find pictures more for your website](#websites-and-resources-to-find-pictures-more-for-your-website)
 - [project]()
    - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
    - [project-2](https://github.com/bariulmunshi/MERN-Project-2)
@@ -10,6 +12,27 @@
 - [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
+
+# Website making idea 
+1. similar website find out from figma, theme-forest etc.
+2. color of website 
+3. what will be written
+4. Collections of free resources
+5. User experience 
+6. Responsive
+# Websites and resources to find pictures more for your website
+- [source](https://bootcamp.uxdesign.cc/free-images-and-resources-collection-for-website-c77f2fc46ce5)
+- themeforest 
+- Figma community 
+- dribble
+- color hunt fo color
+1. `resource`
+- https://app.haikei.app/ & https://coolbackgrounds.io/  & https://meshgradient.com/
+for background maker
+- [lottie](https://lottiefiles.com/) & https://icons8.com/icons/set/popular--animated & 
+https://www.humaaans.com/ https://www.openpeeps.com/ for animation
+- https://mixkit.co/ for video
+- 
 
 # flex and grid CSS media queries example
 1. Flex example for mobile devices
@@ -120,3 +143,18 @@ override bootrap CSS
 ```
 - 1.Horizontal change:Justify-content{} 2.Vertical change: align-item{}
 - align-items: stretch; flex-grow: 1;
+- By default Responsive flex:
+```sh
+ .container2 {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+```
+
+- every child will take equal position in row container: 
+```sh
+.row > div{
+    flex: 1;
+}
+```
