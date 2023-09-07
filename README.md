@@ -2,10 +2,6 @@
 - [Basic understanding MERN](#basic-understanding-mern)
 - [Website making idea](#website-making-idea)
 - [Websites and resources to find pictures more for your website](#websites-and-resources-to-find-pictures-more-for-your-website)
-- [project]()
-   - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
-   - [project-2](https://github.com/bariulmunshi/MERN-Project-2)
-   - [project-3](https://github.com/bariulmunshi/MERN-Project-3)
 - [flex and grid CSS media queries example](#flex-and-grid-css-media-queries-example)
 - [Seven way to responsive layout](#seven-way-to-responsive-layout)
 - [custom CSS{var(--root name can be any css style)}](#custom-css)
@@ -16,6 +12,10 @@
 - [Tailwind-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/blob/main/4Tailwind/Tailwind_Guide.md)
 - [Redux-Guide](https://github.com/bariulmunshi/Redux-Guide)
 - [Next-JS-Guide](https://github.com/bariulmunshi/Next-JS-Guide)
+- [project-Guide]()
+   - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
+   - [project-2](https://github.com/bariulmunshi/MERN-Project-2)
+   - [project-3](https://github.com/bariulmunshi/MERN-Project-3)
 # Website making idea 
 1. similar website find out from figma, theme-forest etc.
 2. color of website 
