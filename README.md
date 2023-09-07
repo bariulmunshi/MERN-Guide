@@ -9,7 +9,7 @@
 - [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
-- [HTML-CSS-CSSframework-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/blob/main/4Tailwind/Tailwind_Guide.md)
+- [HTML-CSS-CSSframework-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/)
 - [JavaScript-Guide](https://docs.google.com/document/d/1JK2jGaRpiE8LDEyEPwmINqVrpEnQuQ0_bI5T6ehdeZk/edit?usp=sharing)
 - [Redux-Guide](https://github.com/bariulmunshi/Redux-Guide)
 - [Next-JS-Guide](https://github.com/bariulmunshi/Next-JS-Guide)
