@@ -1,4 +1,9 @@
 #  Table of content
+- [HTML-CSS-CSSframework-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/)
+- [JavaScript-Guide](https://github.com/bariulmunshi/JavaScript-Guide)
+- [Redux-Guide](https://github.com/bariulmunshi/Redux-Guide)
+- [Next-JS-Guide](https://github.com/bariulmunshi/Next-JS-Guide)
+- [Project-Guide](#project-guide)
 - [Basic understanding MERN](#basic-understanding-mern)
 - [Website making idea](#website-making-idea)
 - [Websites and resources to find pictures more for your website](#websites-and-resources-to-find-pictures-more-for-your-website)
@@ -9,15 +14,21 @@
 - [Git and Github](#git-and-github)
   - [Difference Between Git Vs GitHub](#difference-between-git-vs-github)
   - [Git and GitHub Basic QA](#git-and-github-basic-qa)
-- [HTML-CSS-CSSframework-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/)
-- [JavaScript-Guide](https://github.com/bariulmunshi/JavaScript-Guide)
-- [Redux-Guide](https://github.com/bariulmunshi/Redux-Guide)
-- [Next-JS-Guide](https://github.com/bariulmunshi/Next-JS-Guide)
-- [project-Guide]()
+
+
+
+
+# Project-Guide
+- Phase-1 HTML-CSS-Responsive-site
    - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
    - [project-2](https://github.com/bariulmunshi/MERN-Project-2)
    - [project-3](https://github.com/bariulmunshi/MERN-Project-3)
-   - [Project-5](https://github.com/bariulmunshi/MERN-Project-5)
+   - [project-4] coming soon
+- Phase-2 HTML-CSSFrameworks-Responsive-site
+   - [Project-5](https://github.com/bariulmunshi/MERN-Project-5) with Tailwind
+   - [Project-6](https://github.com/bariulmunshi/MERN-Project-6) with Tailwind & DaisyUI
+   - [project-7] coming soon
+   - [project-8](https://github.com/bariulmunshi/MERN-Project-8) with Bootstrap
 # Website making idea 
 1. similar website find out from figma, theme-forest etc.
 2. color of website 
