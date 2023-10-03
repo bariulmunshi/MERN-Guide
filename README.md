@@ -34,7 +34,7 @@
    - [project-9](https://github.com/bariulmunshi/JavaScript-Guide/tree/main/1Hello%20JavaScript/JS-Crush-Course) with JavaScript
 
 - Phase-4 Make website with Raw JavaScript
-   - [project-10](https://github.com/bariulmunshi/MERN-Project-10)
+   - [project-10](https://github.com/bariulmunshi/MERN-Project-10) with JavaScript
 # Website making idea 
 1. similar website find out from figma, theme-forest etc.
 2. color of website 
