@@ -28,10 +28,10 @@
 - Phase-2 HTML-CSSFrameworks-Responsive-site
    - [Project-5](https://github.com/bariulmunshi/MERN-Project-5) with Tailwind
    - [Project-6](https://github.com/bariulmunshi/MERN-Project-6) with Tailwind & DaisyUI
-   - [project-7](https://github.com/bariulmunshi/MERN-Project-7)
+   - [project-7](https://github.com/bariulmunshi/MERN-Project-7) with Tailwind & DaisyUI
    - [project-8](https://github.com/bariulmunshi/MERN-Project-8) with Bootstrap
 - Phase-3 Problem Solving
-   - [project-9](https://github.com/bariulmunshi/JavaScript-Guide/tree/main/1Hello%20JavaScript/JS-Crush-Course)
+   - [project-9](https://github.com/bariulmunshi/JavaScript-Guide/tree/main/1Hello%20JavaScript/JS-Crush-Course) with JavaScript
 
 - Phase-4 Make website with Raw JavaScript
    - [project-10](https://github.com/bariulmunshi/MERN-Project-10)
