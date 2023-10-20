@@ -35,8 +35,8 @@
 
 - Phase-4 Make website with Raw JavaScript(including DOM manipulation)
    - [project-10](https://github.com/bariulmunshi/MERN-Project-10) with JavaScript
-- Phase-5 Make website with ES6 (including DOM manipulation)
-  - [project-12](https://github.com/bariulmunshi/MERN-Project-12/tree/main)
+- Phase-5 Make website with ES6 (including DOM manipulation) & API
+  - [project-12](https://github.com/bariulmunshi/MERN-Project-12/tree/main) with ES6 & API
 # Website making idea 
 1. similar website find out from figma, theme-forest etc.
 2. color of website 
